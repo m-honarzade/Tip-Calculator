@@ -1,5 +1,3 @@
-import React from "react";
-
 const Output = ({ bill, tip }) => {
   return (
     <div className="flex flex-row justify-between items-center mb-4">

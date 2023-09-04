@@ -1,4 +1,3 @@
-import Button from "./components/Button";
 import TipCalculator from "./components/TipCalculator";
 
 function App() {

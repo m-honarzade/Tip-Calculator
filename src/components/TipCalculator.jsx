@@ -1,8 +1,8 @@
-import React, { useState } from "react";
 import BillInput from "./BillInput";
 import SelectPercentage from "./SelectPercentage";
 import Output from "./Output";
 import Button from "./Button";
+import { useState } from "react";
 
 const TipCalculator = () => {
   const [bill, setBill] = useState("");
